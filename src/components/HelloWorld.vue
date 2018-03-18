@@ -1,3 +1,22 @@
 <template>
-  <text class="message">Now, let's use Vue.js to build your Weex app.</text>
+
 </template>
+
+<script>
+    export default {
+        name: 'hello-world',
+        components: {},
+        props: [],
+        data() {
+            return {}
+        },
+        methods: {},
+        mounted() {
+
+        }
+    }
+</script>
+
+<style scoped>
+
+</style>
